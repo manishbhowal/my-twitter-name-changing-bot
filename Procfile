@@ -1,1 +1,1 @@
-worker : python manish-app-tweet.py
+worker: python manish-app-tweet.py
